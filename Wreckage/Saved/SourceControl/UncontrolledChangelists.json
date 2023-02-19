@@ -7,7 +7,10 @@
 			"files": [
 				"D:/UnrealEnginePP/Wreckage/Wreckage/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"D:/UnrealEnginePP/Wreckage/Wreckage/Content/StarterContent/Maps/Minimal_Default.umap",
-				"D:/UnrealEnginePP/Wreckage/Wreckage/Content/Blueprints/BP_Projectile.uasset"
+				"D:/UnrealEnginePP/Wreckage/Wreckage/Content/Blueprints/BP_Projectile.uasset",
+				"D:/UnrealEnginePP/Wreckage/Wreckage/Content/Maps/Main.umap",
+				"D:/UnrealEnginePP/Wreckage/Wreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"D:/UnrealEnginePP/Wreckage/Wreckage/Content/Blueprints/BP_Barrel.uasset"
 			]
 		}
 	]
