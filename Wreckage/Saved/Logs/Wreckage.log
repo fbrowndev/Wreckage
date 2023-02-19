@@ -2034,3 +2034,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.19-18.08.32:260][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
 [2023.02.19-18.08.32:266][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
 [2023.02.19-18.08.32:323][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.02.19-18.10.10:864][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.19-18.10.10:931][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../UnrealEnginePP/Wreckage/Wreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.19-18.10.10:968][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.02.19-18.10.11:005][924]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2023.02.19-18.10.11:006][924]LogSavePackage: Moving '../../../../../UnrealEnginePP/Wreckage/Wreckage/Saved/Main7EC6221F42653359C0B978A41B295846.tmp' to '../../../../../UnrealEnginePP/Wreckage/Wreckage/Content/Maps/Main.umap'
+[2023.02.19-18.10.11:014][924]LogFileHelpers: Saving map 'Main' took 0.084
+[2023.02.19-18.10.11:019][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 2.22 sec)
+[2023.02.19-18.10.11:026][924]AssetCheck: New page: Asset Save: Main
+[2023.02.19-18.10.11:026][924]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2023.02.19-18.11.31:767][659]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.19-18.11.48:100][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.19-18.11.48:170][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../UnrealEnginePP/Wreckage/Wreckage/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.19-18.11.48:206][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.02.19-18.11.48:246][746]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2023.02.19-18.11.48:247][746]LogSavePackage: Moving '../../../../../UnrealEnginePP/Wreckage/Wreckage/Saved/Main1C3A3B0841E06C7E4FB353AA24AE42E1.tmp' to '../../../../../UnrealEnginePP/Wreckage/Wreckage/Content/Maps/Main.umap'
+[2023.02.19-18.11.48:255][746]LogFileHelpers: Saving map 'Main' took 0.085
+[2023.02.19-18.11.48:272][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 2.39 sec)
+[2023.02.19-18.11.48:277][746]AssetCheck: New page: Asset Save: Main
+[2023.02.19-18.11.48:277][746]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
